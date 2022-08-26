@@ -1,0 +1,63 @@
+.img-fix{
+    width: 100px;
+    margin: 30px;
+}
+.navbar-container{
+    display: flex;
+}
+
+.img-container{
+    width: 30%;
+    
+}
+
+.list{
+    width: 70%;
+    margin: 30px;
+    margin-left: 90px;
+}
+
+.list-item{
+    text-decoration: none;
+    padding: 30px;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;;
+}
+.button-order{
+    margin-left: 30px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #423D26;
+    border: 1px solid #423D26;
+    background-color: transparent;
+    color: #423D26;
+}
+.container{
+    background-color: #2B2922;
+}
+
+.box2{
+    display: flex;
+    margin-left: 30px;
+}
+
+.heading1{
+    width: 50%;
+    color: #F1F0EF;
+    font-size: 38px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}
+.heading2{
+    width: 40%;
+    font-size: 18px;
+    line-height: 30px;
+    margin: auto;
+    color: #82807B;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-image: url("assets/pexels-maxyne-barcel-10402282 1.png");
+    margin: 0;
+    padding: 0;
+}
